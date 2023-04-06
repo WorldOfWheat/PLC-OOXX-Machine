@@ -24,6 +24,6 @@
 ## 版本
 
 * PLC在使用FX 3系時使用COM通訊，因此人機介面及PLC也要選擇COM版
-* PLC在使用FX 5系時使用Ethernet通訊，因此人機介面及PLC也要選擇ETH版
+* PLC在使用FX 5系時使用Ethernet通訊，因此人機介面及PLC也要選擇Ethernet版
 
 ---
